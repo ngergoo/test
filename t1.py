@@ -1,4 +1,3 @@
-import pandas as p
-gfjidsofs
+import pandas as pd
 
 import numpy as np
